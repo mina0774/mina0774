@@ -1,5 +1,5 @@
-### Hi there 👋
-# 🌱 I'm currently looking for a job !
+### 👋 Hi there 👋
+🌱 I'm currently looking for a job ! 🌱
 
 
 <!--
