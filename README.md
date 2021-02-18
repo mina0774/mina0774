@@ -1,4 +1,6 @@
 ### Hi there 👋
+# 🌱 I'm currently looking for a job !
+
 
 <!--
 **mina0774/mina0774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?color=FFA07A&height=400&section=header&text=MinAhJo&fontSize=90&animation=fadeIn&fontColor=FFFFFF)
