@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">✨ Hi there !  ✨</h3>
+<center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmina0774&count_bg=%23ED8888&title_bg=%2396E0EB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</center>
+
 ![header](https://capsule-render.vercel.app/api?color=FFA07A&height=400&section=header&text=MinAhJo&fontSize=90&animation=fadeIn&fontColor=FFFFFF)
+
