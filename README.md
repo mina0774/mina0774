@@ -1,6 +1,3 @@
-### 👋 Hi there 👋
-🌱 I'm currently looking for a job ! 🌱
-
 
 <!--
 **mina0774/mina0774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
